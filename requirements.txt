@@ -1,3 +1,2 @@
 folium==0.10.0
 requests==2.22.0
-appmode==0.6.0
