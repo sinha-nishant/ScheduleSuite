@@ -1,10 +1,12 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sinha-nishant/ScheduleSuite/blob/master/ScheduleSuite.ipynb)
+
 # ScheduleSuite
 See all possible combinations of your USC schedule based on the courses you want.
 
 ## Dependencies
 * Folium - To display interactive maps
 * Requests - To query USC Schedule of Classes API
-* See specific versions listed in [requirements.txt](ScheduleSuite/master/requierements.txt)
+* See specific versions listed in [requirements.txt](requirements.txt)
 
 ## How to Use:
 1. Enter the course codes for all courses you want to have in your schedule for the semester.
