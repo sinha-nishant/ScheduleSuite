@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sinha-nishant/ScheduleSuite/blob/master/ScheduleSuite.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinha-nishant/ScheduleSuite/blob/master/ScheduleSuite.ipynb)
 
 # ScheduleSuite
 See all possible combinations of your USC schedule based on the courses you want.
