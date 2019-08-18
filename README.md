@@ -4,6 +4,7 @@
 See all possible combinations of your USC schedule based on the courses you want.
 
 ## Dependencies
+* Branca - To customize format of popups on map
 * Folium - To display interactive maps
 * Requests - To query USC Schedule of Classes API
 * See specific versions listed in [requirements.txt](requirements.txt)
