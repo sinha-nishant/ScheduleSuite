@@ -1,6 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinha-nishant/ScheduleSuite/blob/master/ScheduleSuite.ipynb)
-
-# ScheduleSuite
+# Schedule Suite
 See all possible combinations of your USC schedule based on the courses you want.
 
 ## Dependencies
@@ -10,6 +8,8 @@ See all possible combinations of your USC schedule based on the courses you want
 * See specific versions listed in [requirements.txt](requirements.txt)
 
 ## How to Use
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinha-nishant/ScheduleSuite/blob/master/ScheduleSuite.ipynb)
+
 Note: To run in Colab click 'Runtime' in the top toolbar then 'Run All'
 1. Enter the course codes for all courses you want to have in your schedule for the semester.
 2. If you have already registered for any sections, you should enter their section IDs. Without the section numbers, the program could only include open sections even though you could be already be enrolled in sections with no available spots.
