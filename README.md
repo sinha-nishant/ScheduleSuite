@@ -1,5 +1,5 @@
 # Schedule Suite
-See all possible combinations of your USC schedule based on the courses you want.
+Takes the hassle out of making your USC class schedule.
 
 ## Dependencies
 * Branca - To customize format of popups on map
